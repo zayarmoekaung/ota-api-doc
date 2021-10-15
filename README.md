@@ -21,4 +21,18 @@ Read Chpt Contents - https://creatordesk.otamyanmar.com/manga/read_mgcontent.php
 Example respond  - {"cont":[{"c_id":"17053","chpt_id":"411","url":"https:\/\/cdn.otamyanmar.com\/content\/mgpan2021091222242.jpeg","c_num":"0"},{"c_id":"17054","chpt_id":"411","url":"https:\/\/cdn.otamyanmar.com\/content\/mgpan2021091247605.jpeg","c_num":"1"},]}
 
 
+Articles
 
+Read recent Articles - https://creatordesk.otamyanmar.com/article/readtip.php
+Example Respond - {"articles":[{"art_id":"1","art_title":"MindaRyn : The girl whose dream came true","art_thumb":"https:\/\/creatordesk.otamyanmar.com\/\/static\/lightnovel\/avatars-000309892720-6f2gl0-t500x500.jpg","art_sum":"anime song \u1010\u103d\u1031 cover \u1006\u102d\u102f\u1010\u1032\u1037 \u1011\u102d\u102f\u1004\u103a\u1038 \u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1000 \u1021\u1006\u102d\u102f\u1010\u1031\u102c\u103a\/you tuber \u1000\u1031\u102c\u1004\u103a\u1019\u101c\u1031\u1038 MindaRyn \u1000 \u1014\u102c\u1019\u100a\u103a\u1000\u103c\u102e\u1038 anime \u1016\u103c\u1005\u103a\u1010\u1032\u1037 That time I got reincarnated as a","created":"2021-09-15 06:28:08","category_id":"0","category_name":null}]}
+
+Read All Article - https://creatordesk.otamyanmar.com/article/read.php
+Example respond - 
+{"articles":[{"art_id":"1","art_title":"MindaRyn : The girl whose dream came true","art_thumb":"https:\/\/creatordesk.otamyanmar.com\/\/static\/lightnovel\/avatars-000309892720-6f2gl0-t500x500.jpg","art_sum":"anime song \u1010\u103d\u1031 cover \u1006\u102d\u102f\u1010\u1032\u1037 \u1011\u102d\u102f\u1004\u103a\u1038 \u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1000 \u1021\u1006\u102d\u102f\u1010\u1031\u102c\u103a\/you tuber \u1000\u1031\u102c\u1004\u103a\u1019\u101c\u1031\u1038 MindaRyn \u1000 \u1014\u102c\u1019\u100a\u103a\u1000\u103c\u102e\u1038 anime \u1016\u103c\u1005\u103a\u1010\u1032\u1037 That time I got reincarnated as a","created":"2021-09-15 06:28:08","category_id":"0","category_name":null}]}
+
+Read Article content - http://creatordesk.otamyanmar.com/article/readone.php?art_id= 'id' 
+Example respond - {"cont":[{"arcon_id":"10","art_id":"1","arcon_num":"0","arcon_type":"","arcon_body":"<p>\u1014\u102c\u1019\u100a\u103a\u1000\u103c\u102e\u1038 isekai anime..."}]}
+  
+Read article Info - http://creatordesk.otamyanmar.com/article/readinfo.php?art_id= 'id'
+Example respond - {"art_id":"1","art_title":"MindaRyn : The girl whose dream came true","art_thumb":"https:\/\/creatordesk.otamyanmar.com\/\/static\/lightnovel\/avatars-000309892720-6f2gl0-t500x500.jpg","art_sum":"anime song \u1010\u103d\u1031 cover \u1006\u102d\u102f\u1010\u1032\u1037 \u1011\u102d\u102f\u1004\u103a\u1038 \u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1000 \u1021\u1006\u102d\u102f\u1010\u1031\u102c\u103a\/you tuber \u1000\u1031\u102c\u1004\u103a\u1019\u101c\u1031\u1038 MindaRyn \u1000 \u1014\u102c\u1019\u100a\u103a\u1000\u103c\u102e\u1038 anime \u1016\u103c\u1005\u103a\u1010\u1032\u1037 That time I got reincarnated as a","created":"2021-09-15 06:28:08","category_id":"0","category_name":null}
+  
